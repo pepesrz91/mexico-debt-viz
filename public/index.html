@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deuda de los Mexicanos — Visualización</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>¿Qué tan endeudados están los mexicanos?</h1>
+    <p class="subtitle">Evolución de la deuda al consumo en México · Datos basados en cifras de Banxico y CNBV</p>
+  </header>
+
+  <main>
+    <!-- Key metrics -->
+    <section class="metrics" id="metrics"></section>
+
+    <!-- Chart 1: Total consumer credit over time -->
+    <section class="chart-section">
+      <h2>Evolución de la Cartera de Crédito al Consumo</h2>
+      <p class="chart-desc">Miles de millones de pesos MXN. La cartera vencida (deuda impaga) se muestra en rojo.</p>
+      <div id="chart-timeline" class="chart"></div>
+    </section>
+
+    <!-- Chart 2: Breakdown by credit type -->
+    <section class="chart-section">
+      <h2>¿En qué se endeudan los mexicanos?</h2>
+      <p class="chart-desc">Distribución de la deuda al consumo por tipo de crédito (último periodo disponible).</p>
+      <div id="chart-breakdown" class="chart"></div>
+    </section>
+
+    <!-- Chart 3: Delinquency rates -->
+    <section class="chart-section">
+      <h2>Índice de Morosidad (IMOR)</h2>
+      <p class="chart-desc">Porcentaje de cartera vencida sobre cartera total, por tipo de crédito.</p>
+      <div id="chart-delinquency" class="chart"></div>
+    </section>
+
+    <!-- Chart 4: Debt per capita -->
+    <section class="chart-section">
+      <h2>Deuda por Persona</h2>
+      <p class="chart-desc">Deuda promedio por habitante y por persona económicamente activa (pesos MXN).</p>
+      <div id="chart-percapita" class="chart"></div>
+    </section>
+
+    <!-- Chart 5: Credit cards -->
+    <section class="chart-section">
+      <h2>Tarjetas de Crédito en México</h2>
+      <p class="chart-desc">Número de tarjetas en circulación y nivel de utilización del crédito disponible.</p>
+      <div id="chart-cards" class="chart"></div>
+    </section>
+
+    <!-- Chart 6: Mortgages -->
+    <section class="chart-section">
+      <h2>Crédito Hipotecario</h2>
+      <p class="chart-desc">Evolución del portafolio hipotecario: cartera vigente, vencida e índice de morosidad (IMOR).</p>
+      <div id="chart-mortgage" class="chart"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Fuentes: Banxico SIE, CNBV Portafolio de Información, INEGI</p>
+    <p>Los datos de muestra están basados en cifras publicadas. Para datos exactos, configura tu token de Banxico.</p>
+  </footer>
+
+  <script src="charts.js" type="module"></script>
+</body>
+</html>

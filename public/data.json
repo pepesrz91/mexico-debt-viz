@@ -1,0 +1,1708 @@
+{
+  "consumer_credit_timeline": [
+    {
+      "date": "2015-01",
+      "vigente": 704745,
+      "vencida": 37269,
+      "total": 742013,
+      "imor": 5.02
+    },
+    {
+      "date": "2015-02",
+      "vigente": 705803,
+      "vencida": 37228,
+      "total": 743032,
+      "imor": 5.01
+    },
+    {
+      "date": "2015-03",
+      "vigente": 708771,
+      "vencida": 36704,
+      "total": 745476,
+      "imor": 4.92
+    },
+    {
+      "date": "2015-04",
+      "vigente": 715119,
+      "vencida": 36995,
+      "total": 752115,
+      "imor": 4.92
+    },
+    {
+      "date": "2015-05",
+      "vigente": 720774,
+      "vencida": 37174,
+      "total": 757949,
+      "imor": 4.9
+    },
+    {
+      "date": "2015-06",
+      "vigente": 726029,
+      "vencida": 36713,
+      "total": 762742,
+      "imor": 4.81
+    },
+    {
+      "date": "2015-07",
+      "vigente": 735616,
+      "vencida": 36116,
+      "total": 771731,
+      "imor": 4.68
+    },
+    {
+      "date": "2015-08",
+      "vigente": 748152,
+      "vencida": 35979,
+      "total": 784131,
+      "imor": 4.59
+    },
+    {
+      "date": "2015-09",
+      "vigente": 756099,
+      "vencida": 35899,
+      "total": 791997,
+      "imor": 4.53
+    },
+    {
+      "date": "2015-10",
+      "vigente": 765076,
+      "vencida": 35518,
+      "total": 800595,
+      "imor": 4.44
+    },
+    {
+      "date": "2015-11",
+      "vigente": 784493,
+      "vencida": 36026,
+      "total": 820519,
+      "imor": 4.39
+    },
+    {
+      "date": "2015-12",
+      "vigente": 783724,
+      "vencida": 34802,
+      "total": 818526,
+      "imor": 4.25
+    },
+    {
+      "date": "2016-01",
+      "vigente": 786642,
+      "vencida": 34006,
+      "total": 820648,
+      "imor": 4.14
+    },
+    {
+      "date": "2016-02",
+      "vigente": 789291,
+      "vencida": 34007,
+      "total": 823298,
+      "imor": 4.13
+    },
+    {
+      "date": "2016-03",
+      "vigente": 797580,
+      "vencida": 33512,
+      "total": 831092,
+      "imor": 4.03
+    },
+    {
+      "date": "2016-04",
+      "vigente": 805123,
+      "vencida": 33953,
+      "total": 839076,
+      "imor": 4.05
+    },
+    {
+      "date": "2016-05",
+      "vigente": 812915,
+      "vencida": 35200,
+      "total": 848115,
+      "imor": 4.15
+    },
+    {
+      "date": "2016-06",
+      "vigente": 826131,
+      "vencida": 35183,
+      "total": 861314,
+      "imor": 4.08
+    },
+    {
+      "date": "2016-07",
+      "vigente": 837066,
+      "vencida": 36107,
+      "total": 873173,
+      "imor": 4.14
+    },
+    {
+      "date": "2016-08",
+      "vigente": 847771,
+      "vencida": 36494,
+      "total": 884264,
+      "imor": 4.13
+    },
+    {
+      "date": "2016-09",
+      "vigente": 855692,
+      "vencida": 37296,
+      "total": 892988,
+      "imor": 4.18
+    },
+    {
+      "date": "2016-10",
+      "vigente": 864623,
+      "vencida": 38545,
+      "total": 903168,
+      "imor": 4.27
+    },
+    {
+      "date": "2016-11",
+      "vigente": 885606,
+      "vencida": 39821,
+      "total": 925427,
+      "imor": 4.3
+    },
+    {
+      "date": "2016-12",
+      "vigente": 879307,
+      "vencida": 38460,
+      "total": 917767,
+      "imor": 4.19
+    },
+    {
+      "date": "2017-01",
+      "vigente": 878035,
+      "vencida": 38741,
+      "total": 916776,
+      "imor": 4.23
+    },
+    {
+      "date": "2017-02",
+      "vigente": 880687,
+      "vencida": 38848,
+      "total": 919535,
+      "imor": 4.22
+    },
+    {
+      "date": "2017-03",
+      "vigente": 886145,
+      "vencida": 38600,
+      "total": 924745,
+      "imor": 4.17
+    },
+    {
+      "date": "2017-04",
+      "vigente": 894058,
+      "vencida": 38373,
+      "total": 932431,
+      "imor": 4.12
+    },
+    {
+      "date": "2017-05",
+      "vigente": 898355,
+      "vencida": 40297,
+      "total": 938652,
+      "imor": 4.29
+    },
+    {
+      "date": "2017-06",
+      "vigente": 910973,
+      "vencida": 41060,
+      "total": 952033,
+      "imor": 4.31
+    },
+    {
+      "date": "2017-07",
+      "vigente": 919834,
+      "vencida": 41942,
+      "total": 961777,
+      "imor": 4.36
+    },
+    {
+      "date": "2017-08",
+      "vigente": 928158,
+      "vencida": 42517,
+      "total": 970674,
+      "imor": 4.38
+    },
+    {
+      "date": "2017-09",
+      "vigente": 932040,
+      "vencida": 42919,
+      "total": 974959,
+      "imor": 4.4
+    },
+    {
+      "date": "2017-10",
+      "vigente": 935730,
+      "vencida": 44855,
+      "total": 980586,
+      "imor": 4.57
+    },
+    {
+      "date": "2017-11",
+      "vigente": 958427,
+      "vencida": 45871,
+      "total": 1004298,
+      "imor": 4.57
+    },
+    {
+      "date": "2017-12",
+      "vigente": 951169,
+      "vencida": 44433,
+      "total": 995602,
+      "imor": 4.46
+    },
+    {
+      "date": "2018-01",
+      "vigente": 950703,
+      "vencida": 44650,
+      "total": 995353,
+      "imor": 4.49
+    },
+    {
+      "date": "2018-02",
+      "vigente": 953179,
+      "vencida": 44512,
+      "total": 997691,
+      "imor": 4.46
+    },
+    {
+      "date": "2018-03",
+      "vigente": 959160,
+      "vencida": 44593,
+      "total": 1003753,
+      "imor": 4.44
+    },
+    {
+      "date": "2018-04",
+      "vigente": 963498,
+      "vencida": 45462,
+      "total": 1008960,
+      "imor": 4.51
+    },
+    {
+      "date": "2018-05",
+      "vigente": 967874,
+      "vencida": 46702,
+      "total": 1014576,
+      "imor": 4.6
+    },
+    {
+      "date": "2018-06",
+      "vigente": 975697,
+      "vencida": 46383,
+      "total": 1022080,
+      "imor": 4.54
+    },
+    {
+      "date": "2018-07",
+      "vigente": 978662,
+      "vencida": 46776,
+      "total": 1025437,
+      "imor": 4.56
+    },
+    {
+      "date": "2018-08",
+      "vigente": 984602,
+      "vencida": 46618,
+      "total": 1031220,
+      "imor": 4.52
+    },
+    {
+      "date": "2018-09",
+      "vigente": 992490,
+      "vencida": 47297,
+      "total": 1039787,
+      "imor": 4.55
+    },
+    {
+      "date": "2018-10",
+      "vigente": 995700,
+      "vencida": 47637,
+      "total": 1043336,
+      "imor": 4.57
+    },
+    {
+      "date": "2018-11",
+      "vigente": 1020126,
+      "vencida": 47658,
+      "total": 1067784,
+      "imor": 4.46
+    },
+    {
+      "date": "2018-12",
+      "vigente": 1012151,
+      "vencida": 46364,
+      "total": 1058515,
+      "imor": 4.38
+    },
+    {
+      "date": "2019-01",
+      "vigente": 1010176,
+      "vencida": 45627,
+      "total": 1055802,
+      "imor": 4.32
+    },
+    {
+      "date": "2019-02",
+      "vigente": 1011240,
+      "vencida": 46137,
+      "total": 1057377,
+      "imor": 4.36
+    },
+    {
+      "date": "2019-03",
+      "vigente": 1016222,
+      "vencida": 45707,
+      "total": 1061928,
+      "imor": 4.3
+    },
+    {
+      "date": "2019-04",
+      "vigente": 1020746,
+      "vencida": 46244,
+      "total": 1066990,
+      "imor": 4.33
+    },
+    {
+      "date": "2019-05",
+      "vigente": 1026974,
+      "vencida": 46987,
+      "total": 1073961,
+      "imor": 4.38
+    },
+    {
+      "date": "2019-06",
+      "vigente": 1035804,
+      "vencida": 47127,
+      "total": 1082931,
+      "imor": 4.35
+    },
+    {
+      "date": "2019-07",
+      "vigente": 1039759,
+      "vencida": 47295,
+      "total": 1087054,
+      "imor": 4.35
+    },
+    {
+      "date": "2019-08",
+      "vigente": 1048349,
+      "vencida": 47330,
+      "total": 1095678,
+      "imor": 4.32
+    },
+    {
+      "date": "2019-09",
+      "vigente": 1052954,
+      "vencida": 48371,
+      "total": 1101325,
+      "imor": 4.39
+    },
+    {
+      "date": "2019-10",
+      "vigente": 1057281,
+      "vencida": 49113,
+      "total": 1106394,
+      "imor": 4.44
+    },
+    {
+      "date": "2019-11",
+      "vigente": 1080891,
+      "vencida": 49504,
+      "total": 1130395,
+      "imor": 4.38
+    },
+    {
+      "date": "2019-12",
+      "vigente": 1066113,
+      "vencida": 47956,
+      "total": 1114069,
+      "imor": 4.3
+    },
+    {
+      "date": "2020-01",
+      "vigente": 1059938,
+      "vencida": 47819,
+      "total": 1107757,
+      "imor": 4.32
+    },
+    {
+      "date": "2020-02",
+      "vigente": 1059671,
+      "vencida": 47960,
+      "total": 1107630,
+      "imor": 4.33
+    },
+    {
+      "date": "2020-03",
+      "vigente": 1049310,
+      "vencida": 48433,
+      "total": 1097742,
+      "imor": 4.41
+    },
+    {
+      "date": "2020-04",
+      "vigente": 1022666,
+      "vencida": 49312,
+      "total": 1071978,
+      "imor": 4.6
+    },
+    {
+      "date": "2020-05",
+      "vigente": 1011590,
+      "vencida": 51041,
+      "total": 1062631,
+      "imor": 4.8
+    },
+    {
+      "date": "2020-06",
+      "vigente": 1002754,
+      "vencida": 49291,
+      "total": 1052045,
+      "imor": 4.69
+    },
+    {
+      "date": "2020-07",
+      "vigente": 981223,
+      "vencida": 41145,
+      "total": 1022369,
+      "imor": 4.02
+    },
+    {
+      "date": "2020-08",
+      "vigente": 985405,
+      "vencida": 36983,
+      "total": 1022387,
+      "imor": 3.62
+    },
+    {
+      "date": "2020-09",
+      "vigente": 985473,
+      "vencida": 36517,
+      "total": 1021990,
+      "imor": 3.57
+    },
+    {
+      "date": "2020-10",
+      "vigente": 980368,
+      "vencida": 40592,
+      "total": 1020960,
+      "imor": 3.98
+    },
+    {
+      "date": "2020-11",
+      "vigente": 992834,
+      "vencida": 51737,
+      "total": 1044571,
+      "imor": 4.95
+    },
+    {
+      "date": "2020-12",
+      "vigente": 973224,
+      "vencida": 54723,
+      "total": 1027947,
+      "imor": 5.32
+    },
+    {
+      "date": "2021-01",
+      "vigente": 957842,
+      "vencida": 57194,
+      "total": 1015036,
+      "imor": 5.63
+    },
+    {
+      "date": "2021-02",
+      "vigente": 950818,
+      "vencida": 54777,
+      "total": 1005595,
+      "imor": 5.45
+    },
+    {
+      "date": "2021-03",
+      "vigente": 952387,
+      "vencida": 48231,
+      "total": 1000618,
+      "imor": 4.82
+    },
+    {
+      "date": "2021-04",
+      "vigente": 954645,
+      "vencida": 44253,
+      "total": 998898,
+      "imor": 4.43
+    },
+    {
+      "date": "2021-05",
+      "vigente": 962669,
+      "vencida": 42178,
+      "total": 1004847,
+      "imor": 4.2
+    },
+    {
+      "date": "2021-06",
+      "vigente": 971475,
+      "vencida": 39274,
+      "total": 1010749,
+      "imor": 3.89
+    },
+    {
+      "date": "2021-07",
+      "vigente": 977601,
+      "vencida": 36867,
+      "total": 1014469,
+      "imor": 3.63
+    },
+    {
+      "date": "2021-08",
+      "vigente": 982250,
+      "vencida": 35306,
+      "total": 1017556,
+      "imor": 3.47
+    },
+    {
+      "date": "2021-09",
+      "vigente": 994505,
+      "vencida": 34808,
+      "total": 1029312,
+      "imor": 3.38
+    },
+    {
+      "date": "2021-10",
+      "vigente": 994565,
+      "vencida": 34584,
+      "total": 1029149,
+      "imor": 3.36
+    },
+    {
+      "date": "2021-11",
+      "vigente": 1030396,
+      "vencida": 34437,
+      "total": 1064833,
+      "imor": 3.23
+    },
+    {
+      "date": "2021-12",
+      "vigente": 1022470,
+      "vencida": 33954,
+      "total": 1056424,
+      "imor": 3.21
+    },
+    {
+      "date": "2022-01",
+      "vigente": 1032637,
+      "vencida": 32726,
+      "total": 1065363,
+      "imor": 3.07
+    },
+    {
+      "date": "2022-02",
+      "vigente": 1041437,
+      "vencida": 31990,
+      "total": 1073428,
+      "imor": 2.98
+    },
+    {
+      "date": "2022-03",
+      "vigente": 1054419,
+      "vencida": 31206,
+      "total": 1085624,
+      "imor": 2.87
+    },
+    {
+      "date": "2022-04",
+      "vigente": 1067878,
+      "vencida": 31245,
+      "total": 1099123,
+      "imor": 2.84
+    },
+    {
+      "date": "2022-05",
+      "vigente": 1083230,
+      "vencida": 33221,
+      "total": 1116452,
+      "imor": 2.98
+    },
+    {
+      "date": "2022-06",
+      "vigente": 1101951,
+      "vencida": 32325,
+      "total": 1134276,
+      "imor": 2.85
+    },
+    {
+      "date": "2022-07",
+      "vigente": 1116338,
+      "vencida": 31946,
+      "total": 1148285,
+      "imor": 2.78
+    },
+    {
+      "date": "2022-08",
+      "vigente": 1133313,
+      "vencida": 33395,
+      "total": 1166708,
+      "imor": 2.86
+    },
+    {
+      "date": "2022-09",
+      "vigente": 1148587,
+      "vencida": 33833,
+      "total": 1182420,
+      "imor": 2.86
+    },
+    {
+      "date": "2022-10",
+      "vigente": 1167864,
+      "vencida": 35759,
+      "total": 1203623,
+      "imor": 2.97
+    },
+    {
+      "date": "2022-11",
+      "vigente": 1210708,
+      "vencida": 35465,
+      "total": 1246173,
+      "imor": 2.85
+    },
+    {
+      "date": "2022-12",
+      "vigente": 1203213,
+      "vencida": 35950,
+      "total": 1239163,
+      "imor": 2.9
+    },
+    {
+      "date": "2023-01",
+      "vigente": 1214891,
+      "vencida": 37203,
+      "total": 1252094,
+      "imor": 2.97
+    },
+    {
+      "date": "2023-02",
+      "vigente": 1228616,
+      "vencida": 37438,
+      "total": 1266054,
+      "imor": 2.96
+    },
+    {
+      "date": "2023-03",
+      "vigente": 1242432,
+      "vencida": 37046,
+      "total": 1279478,
+      "imor": 2.9
+    },
+    {
+      "date": "2023-04",
+      "vigente": 1261835,
+      "vencida": 37779,
+      "total": 1299614,
+      "imor": 2.91
+    },
+    {
+      "date": "2023-05",
+      "vigente": 1276997,
+      "vencida": 39689,
+      "total": 1316686,
+      "imor": 3.01
+    },
+    {
+      "date": "2023-06",
+      "vigente": 1303478,
+      "vencida": 40539,
+      "total": 1344018,
+      "imor": 3.02
+    },
+    {
+      "date": "2023-07",
+      "vigente": 1317698,
+      "vencida": 42054,
+      "total": 1359751,
+      "imor": 3.09
+    },
+    {
+      "date": "2023-08",
+      "vigente": 1339702,
+      "vencida": 43029,
+      "total": 1382731,
+      "imor": 3.11
+    },
+    {
+      "date": "2023-09",
+      "vigente": 1361217,
+      "vencida": 44361,
+      "total": 1405578,
+      "imor": 3.16
+    },
+    {
+      "date": "2023-10",
+      "vigente": 1380209,
+      "vencida": 46369,
+      "total": 1426578,
+      "imor": 3.25
+    },
+    {
+      "date": "2023-11",
+      "vigente": 1425155,
+      "vencida": 47762,
+      "total": 1472918,
+      "imor": 3.24
+    },
+    {
+      "date": "2023-12",
+      "vigente": 1414136,
+      "vencida": 48789,
+      "total": 1462925,
+      "imor": 3.34
+    },
+    {
+      "date": "2024-01",
+      "vigente": 1418463,
+      "vencida": 48931,
+      "total": 1467394,
+      "imor": 3.33
+    },
+    {
+      "date": "2024-02",
+      "vigente": 1424977,
+      "vencida": 47795,
+      "total": 1472772,
+      "imor": 3.25
+    },
+    {
+      "date": "2024-03",
+      "vigente": 1443241,
+      "vencida": 45815,
+      "total": 1489056,
+      "imor": 3.08
+    },
+    {
+      "date": "2024-04",
+      "vigente": 1503991,
+      "vencida": 45134,
+      "total": 1549125,
+      "imor": 2.91
+    },
+    {
+      "date": "2024-05",
+      "vigente": 1530809,
+      "vencida": 45637,
+      "total": 1576446,
+      "imor": 2.89
+    },
+    {
+      "date": "2024-06",
+      "vigente": 1547701,
+      "vencida": 46084,
+      "total": 1593784,
+      "imor": 2.89
+    },
+    {
+      "date": "2024-07",
+      "vigente": 1564524,
+      "vencida": 47007,
+      "total": 1611531,
+      "imor": 2.92
+    },
+    {
+      "date": "2024-08",
+      "vigente": 1589793,
+      "vencida": 47685,
+      "total": 1637478,
+      "imor": 2.91
+    },
+    {
+      "date": "2024-09",
+      "vigente": 1604434,
+      "vencida": 49791,
+      "total": 1654225,
+      "imor": 3.01
+    },
+    {
+      "date": "2024-10",
+      "vigente": 1626846,
+      "vencida": 51155,
+      "total": 1678001,
+      "imor": 3.05
+    },
+    {
+      "date": "2024-11",
+      "vigente": 1681368,
+      "vencida": 51627,
+      "total": 1732995,
+      "imor": 2.98
+    },
+    {
+      "date": "2024-12",
+      "vigente": 1676083,
+      "vencida": 52658,
+      "total": 1728741,
+      "imor": 3.05
+    },
+    {
+      "date": "2025-01",
+      "vigente": 1683485,
+      "vencida": 53037,
+      "total": 1736522,
+      "imor": 3.05
+    },
+    {
+      "date": "2025-02",
+      "vigente": 1690880,
+      "vencida": 52772,
+      "total": 1743652,
+      "imor": 3.03
+    },
+    {
+      "date": "2025-03",
+      "vigente": 1704170,
+      "vencida": 49764,
+      "total": 1753934,
+      "imor": 2.84
+    },
+    {
+      "date": "2025-04",
+      "vigente": 1725687,
+      "vencida": 51177,
+      "total": 1776865,
+      "imor": 2.88
+    },
+    {
+      "date": "2025-05",
+      "vigente": 1738447,
+      "vencida": 52792,
+      "total": 1791239,
+      "imor": 2.95
+    },
+    {
+      "date": "2025-06",
+      "vigente": 1757742,
+      "vencida": 53652,
+      "total": 1811394,
+      "imor": 2.96
+    },
+    {
+      "date": "2025-07",
+      "vigente": 1778535,
+      "vencida": 54299,
+      "total": 1832834,
+      "imor": 2.96
+    },
+    {
+      "date": "2025-08",
+      "vigente": 1800878,
+      "vencida": 54397,
+      "total": 1855274,
+      "imor": 2.93
+    },
+    {
+      "date": "2025-09",
+      "vigente": 1815651,
+      "vencida": 56240,
+      "total": 1871890,
+      "imor": 3
+    },
+    {
+      "date": "2025-10",
+      "vigente": 1834421,
+      "vencida": 59200,
+      "total": 1893622,
+      "imor": 3.13
+    },
+    {
+      "date": "2025-11",
+      "vigente": 1888758,
+      "vencida": 61964,
+      "total": 1950722,
+      "imor": 3.18
+    },
+    {
+      "date": "2025-12",
+      "vigente": 1879567,
+      "vencida": 64857,
+      "total": 1944424,
+      "imor": 3.34
+    },
+    {
+      "date": "2026-01",
+      "vigente": 1883635,
+      "vencida": 64993,
+      "total": 1948627,
+      "imor": 3.34
+    },
+    {
+      "date": "2026-02",
+      "vigente": 1884947,
+      "vencida": 65360,
+      "total": 1950307,
+      "imor": 3.35
+    }
+  ],
+  "credit_breakdown": {
+    "date": "2026-02",
+    "categories": [
+      {
+        "type": "Tarjeta de Crédito",
+        "vigente": 679546,
+        "vencida": 23785,
+        "total": 703331
+      },
+      {
+        "type": "Crédito de Nómina",
+        "vigente": 427869,
+        "vencida": 12986,
+        "total": 440855
+      },
+      {
+        "type": "Crédito Personal",
+        "vigente": 282614,
+        "vencida": 17506,
+        "total": 300120
+      },
+      {
+        "type": "Crédito Automotriz",
+        "vigente": 362791,
+        "vencida": 5078,
+        "total": 367869
+      },
+      {
+        "type": "Bienes de Consumo Duradero",
+        "vigente": 406808,
+        "vencida": 8193,
+        "total": 415001
+      },
+      {
+        "type": "Otros Consumo",
+        "vigente": 88110,
+        "vencida": 2891,
+        "total": 91001
+      }
+    ]
+  },
+  "delinquency_rates": [
+    {
+      "date": "2015-03",
+      "consumo": 4.92,
+      "tarjeta_credito": 5.38,
+      "personal": 7.84,
+      "automotriz": 1.68,
+      "hipotecario": 3.58
+    },
+    {
+      "date": "2015-06",
+      "consumo": 4.81,
+      "tarjeta_credito": 5.41,
+      "personal": 7.28,
+      "automotriz": 1.7,
+      "hipotecario": 3.51
+    },
+    {
+      "date": "2015-09",
+      "consumo": 4.53,
+      "tarjeta_credito": 5.32,
+      "personal": 6.38,
+      "automotriz": 1.7,
+      "hipotecario": 3.3
+    },
+    {
+      "date": "2015-12",
+      "consumo": 4.25,
+      "tarjeta_credito": 5.05,
+      "personal": 5.73,
+      "automotriz": 1.57,
+      "hipotecario": 3.25
+    },
+    {
+      "date": "2016-03",
+      "consumo": 4.03,
+      "tarjeta_credito": 4.97,
+      "personal": 5.28,
+      "automotriz": 1.42,
+      "hipotecario": 3.19
+    },
+    {
+      "date": "2016-06",
+      "consumo": 4.08,
+      "tarjeta_credito": 5.02,
+      "personal": 5.2,
+      "automotriz": 1.45,
+      "hipotecario": 3.1
+    },
+    {
+      "date": "2016-09",
+      "consumo": 4.18,
+      "tarjeta_credito": 5.14,
+      "personal": 5.2,
+      "automotriz": 1.5,
+      "hipotecario": 2.9
+    },
+    {
+      "date": "2016-12",
+      "consumo": 4.19,
+      "tarjeta_credito": 4.94,
+      "personal": 5.36,
+      "automotriz": 1.49,
+      "hipotecario": 2.73
+    },
+    {
+      "date": "2017-03",
+      "consumo": 4.17,
+      "tarjeta_credito": 5.2,
+      "personal": 5.41,
+      "automotriz": 1.44,
+      "hipotecario": 2.52
+    },
+    {
+      "date": "2017-06",
+      "consumo": 4.31,
+      "tarjeta_credito": 5.36,
+      "personal": 5.73,
+      "automotriz": 1.55,
+      "hipotecario": 2.59
+    },
+    {
+      "date": "2017-09",
+      "consumo": 4.4,
+      "tarjeta_credito": 5.54,
+      "personal": 5.83,
+      "automotriz": 1.58,
+      "hipotecario": 2.58
+    },
+    {
+      "date": "2017-12",
+      "consumo": 4.46,
+      "tarjeta_credito": 5.32,
+      "personal": 6.21,
+      "automotriz": 1.69,
+      "hipotecario": 2.63
+    },
+    {
+      "date": "2018-03",
+      "consumo": 4.44,
+      "tarjeta_credito": 5.3,
+      "personal": 6.46,
+      "automotriz": 1.73,
+      "hipotecario": 2.67
+    },
+    {
+      "date": "2018-06",
+      "consumo": 4.54,
+      "tarjeta_credito": 5.35,
+      "personal": 6.71,
+      "automotriz": 1.79,
+      "hipotecario": 2.56
+    },
+    {
+      "date": "2018-09",
+      "consumo": 4.55,
+      "tarjeta_credito": 5.36,
+      "personal": 6.61,
+      "automotriz": 1.9,
+      "hipotecario": 2.55
+    },
+    {
+      "date": "2018-12",
+      "consumo": 4.38,
+      "tarjeta_credito": 5.1,
+      "personal": 6.35,
+      "automotriz": 2.04,
+      "hipotecario": 2.58
+    },
+    {
+      "date": "2019-03",
+      "consumo": 4.3,
+      "tarjeta_credito": 5.32,
+      "personal": 6.19,
+      "automotriz": 2.02,
+      "hipotecario": 2.48
+    },
+    {
+      "date": "2019-06",
+      "consumo": 4.35,
+      "tarjeta_credito": 5.24,
+      "personal": 6.26,
+      "automotriz": 2.03,
+      "hipotecario": 2.58
+    },
+    {
+      "date": "2019-09",
+      "consumo": 4.39,
+      "tarjeta_credito": 5.18,
+      "personal": 6.62,
+      "automotriz": 2.15,
+      "hipotecario": 2.71
+    },
+    {
+      "date": "2019-12",
+      "consumo": 4.3,
+      "tarjeta_credito": 4.88,
+      "personal": 6.6,
+      "automotriz": 2.22,
+      "hipotecario": 2.82
+    },
+    {
+      "date": "2020-03",
+      "consumo": 4.41,
+      "tarjeta_credito": 5.15,
+      "personal": 6.86,
+      "automotriz": 2.24,
+      "hipotecario": 3.06
+    },
+    {
+      "date": "2020-06",
+      "consumo": 4.69,
+      "tarjeta_credito": 5.39,
+      "personal": 7.52,
+      "automotriz": 2.59,
+      "hipotecario": 3.07
+    },
+    {
+      "date": "2020-09",
+      "consumo": 3.57,
+      "tarjeta_credito": 3.91,
+      "personal": 5.74,
+      "automotriz": 2.37,
+      "hipotecario": 3.18
+    },
+    {
+      "date": "2020-12",
+      "consumo": 5.32,
+      "tarjeta_credito": 6.92,
+      "personal": 7.39,
+      "automotriz": 3.04,
+      "hipotecario": 3.28
+    },
+    {
+      "date": "2021-03",
+      "consumo": 4.82,
+      "tarjeta_credito": 6.06,
+      "personal": 6.97,
+      "automotriz": 3.43,
+      "hipotecario": 3.54
+    },
+    {
+      "date": "2021-06",
+      "consumo": 3.89,
+      "tarjeta_credito": 4.53,
+      "personal": 6,
+      "automotriz": 2.79,
+      "hipotecario": 3.52
+    },
+    {
+      "date": "2021-09",
+      "consumo": 3.38,
+      "tarjeta_credito": 3.66,
+      "personal": 5.27,
+      "automotriz": 2.48,
+      "hipotecario": 3.35
+    },
+    {
+      "date": "2021-12",
+      "consumo": 3.21,
+      "tarjeta_credito": 3.28,
+      "personal": 5.18,
+      "automotriz": 2.21,
+      "hipotecario": 3.08
+    },
+    {
+      "date": "2022-03",
+      "consumo": 2.87,
+      "tarjeta_credito": 2.67,
+      "personal": 4.38,
+      "automotriz": 1.92,
+      "hipotecario": 2.99
+    },
+    {
+      "date": "2022-06",
+      "consumo": 2.85,
+      "tarjeta_credito": 2.55,
+      "personal": 4.21,
+      "automotriz": 1.82,
+      "hipotecario": 2.84
+    },
+    {
+      "date": "2022-09",
+      "consumo": 2.86,
+      "tarjeta_credito": 2.58,
+      "personal": 4.3,
+      "automotriz": 1.68,
+      "hipotecario": 2.76
+    },
+    {
+      "date": "2022-12",
+      "consumo": 2.9,
+      "tarjeta_credito": 2.61,
+      "personal": 4.64,
+      "automotriz": 1.4,
+      "hipotecario": 2.59
+    },
+    {
+      "date": "2023-03",
+      "consumo": 2.9,
+      "tarjeta_credito": 2.81,
+      "personal": 4.64,
+      "automotriz": 1.27,
+      "hipotecario": 2.51
+    },
+    {
+      "date": "2023-06",
+      "consumo": 3.02,
+      "tarjeta_credito": 3.04,
+      "personal": 4.75,
+      "automotriz": 1.17,
+      "hipotecario": 2.55
+    },
+    {
+      "date": "2023-09",
+      "consumo": 3.16,
+      "tarjeta_credito": 3.31,
+      "personal": 4.78,
+      "automotriz": 1.16,
+      "hipotecario": 2.58
+    },
+    {
+      "date": "2023-12",
+      "consumo": 3.34,
+      "tarjeta_credito": 3.55,
+      "personal": 5.12,
+      "automotriz": 1.14,
+      "hipotecario": 2.57
+    },
+    {
+      "date": "2024-03",
+      "consumo": 3.08,
+      "tarjeta_credito": 3.39,
+      "personal": 4.64,
+      "automotriz": 1.09,
+      "hipotecario": 2.6
+    },
+    {
+      "date": "2024-06",
+      "consumo": 2.89,
+      "tarjeta_credito": 3.31,
+      "personal": 4.36,
+      "automotriz": 1.01,
+      "hipotecario": 2.59
+    },
+    {
+      "date": "2024-09",
+      "consumo": 3.01,
+      "tarjeta_credito": 3.47,
+      "personal": 4.54,
+      "automotriz": 1.04,
+      "hipotecario": 2.68
+    },
+    {
+      "date": "2024-12",
+      "consumo": 3.05,
+      "tarjeta_credito": 3.42,
+      "personal": 4.67,
+      "automotriz": 0.98,
+      "hipotecario": 2.74
+    },
+    {
+      "date": "2025-03",
+      "consumo": 2.84,
+      "tarjeta_credito": 2.97,
+      "personal": 4.52,
+      "automotriz": 1.04,
+      "hipotecario": 2.85
+    },
+    {
+      "date": "2025-06",
+      "consumo": 2.96,
+      "tarjeta_credito": 3.3,
+      "personal": 4.49,
+      "automotriz": 1.14,
+      "hipotecario": 2.95
+    },
+    {
+      "date": "2025-09",
+      "consumo": 3,
+      "tarjeta_credito": 3.25,
+      "personal": 4.9,
+      "automotriz": 1.21,
+      "hipotecario": 3.06
+    },
+    {
+      "date": "2025-12",
+      "consumo": 3.34,
+      "tarjeta_credito": 3.44,
+      "personal": 6.05,
+      "automotriz": 1.28,
+      "hipotecario": 2.99
+    }
+  ],
+  "debt_per_capita": [
+    {
+      "year": 2015,
+      "population_millions": 121,
+      "eap_millions": 55.7,
+      "consumer_debt_per_capita": 6765,
+      "consumer_debt_per_eap": 14706,
+      "total_debt_per_capita": 6765,
+      "total_debt_per_eap": 14706
+    },
+    {
+      "year": 2016,
+      "population_millions": 122.3,
+      "eap_millions": 56.3,
+      "consumer_debt_per_capita": 7504,
+      "consumer_debt_per_eap": 16314,
+      "total_debt_per_capita": 7504,
+      "total_debt_per_eap": 16314
+    },
+    {
+      "year": 2017,
+      "population_millions": 123.5,
+      "eap_millions": 56.8,
+      "consumer_debt_per_capita": 8062,
+      "consumer_debt_per_eap": 17525,
+      "total_debt_per_capita": 8062,
+      "total_debt_per_eap": 17525
+    },
+    {
+      "year": 2018,
+      "population_millions": 124.7,
+      "eap_millions": 57.4,
+      "consumer_debt_per_capita": 8488,
+      "consumer_debt_per_eap": 18453,
+      "total_debt_per_capita": 8488,
+      "total_debt_per_eap": 18453
+    },
+    {
+      "year": 2019,
+      "population_millions": 125.9,
+      "eap_millions": 57.9,
+      "consumer_debt_per_capita": 8849,
+      "consumer_debt_per_eap": 19237,
+      "total_debt_per_capita": 8849,
+      "total_debt_per_eap": 19237
+    },
+    {
+      "year": 2020,
+      "population_millions": 126,
+      "eap_millions": 58,
+      "consumer_debt_per_capita": 8158,
+      "consumer_debt_per_eap": 17735,
+      "total_debt_per_capita": 8158,
+      "total_debt_per_eap": 17735
+    },
+    {
+      "year": 2021,
+      "population_millions": 127.8,
+      "eap_millions": 58.8,
+      "consumer_debt_per_capita": 8266,
+      "consumer_debt_per_eap": 17970,
+      "total_debt_per_capita": 8266,
+      "total_debt_per_eap": 17970
+    },
+    {
+      "year": 2022,
+      "population_millions": 129,
+      "eap_millions": 59.3,
+      "consumer_debt_per_capita": 9606,
+      "consumer_debt_per_eap": 20882,
+      "total_debt_per_capita": 9606,
+      "total_debt_per_eap": 20882
+    },
+    {
+      "year": 2023,
+      "population_millions": 130.1,
+      "eap_millions": 59.8,
+      "consumer_debt_per_capita": 11245,
+      "consumer_debt_per_eap": 24445,
+      "total_debt_per_capita": 11245,
+      "total_debt_per_eap": 24445
+    },
+    {
+      "year": 2024,
+      "population_millions": 131.2,
+      "eap_millions": 60.4,
+      "consumer_debt_per_capita": 13176,
+      "consumer_debt_per_eap": 28644,
+      "total_debt_per_capita": 13176,
+      "total_debt_per_eap": 28644
+    },
+    {
+      "year": 2025,
+      "population_millions": 132.3,
+      "eap_millions": 60.9,
+      "consumer_debt_per_capita": 14697,
+      "consumer_debt_per_eap": 31950,
+      "total_debt_per_capita": 14697,
+      "total_debt_per_eap": 31950
+    },
+    {
+      "year": 2026,
+      "population_millions": 133.3,
+      "eap_millions": 61.3,
+      "consumer_debt_per_capita": 14631,
+      "consumer_debt_per_eap": 31806,
+      "total_debt_per_capita": 14631,
+      "total_debt_per_eap": 31806
+    }
+  ],
+  "credit_cards": [
+    {
+      "year": 2015,
+      "total_cards_millions": 20.7,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 42.13,
+      "portfolio_vigente": 310592,
+      "portfolio_vencida": 16506,
+      "portfolio_total": 327098
+    },
+    {
+      "year": 2016,
+      "total_cards_millions": 22.7,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 42.08,
+      "portfolio_vigente": 339767,
+      "portfolio_vencida": 17654,
+      "portfolio_total": 357421
+    },
+    {
+      "year": 2017,
+      "total_cards_millions": 24.4,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 42.25,
+      "portfolio_vigente": 365615,
+      "portfolio_vencida": 20551,
+      "portfolio_total": 386166
+    },
+    {
+      "year": 2018,
+      "total_cards_millions": 25.8,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 42.15,
+      "portfolio_vigente": 386321,
+      "portfolio_vencida": 20770,
+      "portfolio_total": 407090
+    },
+    {
+      "year": 2019,
+      "total_cards_millions": 27.1,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 42.05,
+      "portfolio_vigente": 406523,
+      "portfolio_vencida": 20863,
+      "portfolio_total": 427386
+    },
+    {
+      "year": 2020,
+      "total_cards_millions": 24,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 42.97,
+      "portfolio_vigente": 359772,
+      "portfolio_vencida": 26752,
+      "portfolio_total": 386523
+    },
+    {
+      "year": 2021,
+      "total_cards_millions": 25,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 41.36,
+      "portfolio_vigente": 375575,
+      "portfolio_vencida": 12747,
+      "portfolio_total": 388322
+    },
+    {
+      "year": 2022,
+      "total_cards_millions": 30.3,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 41.07,
+      "portfolio_vigente": 455203,
+      "portfolio_vencida": 12213,
+      "portfolio_total": 467416
+    },
+    {
+      "year": 2023,
+      "total_cards_millions": 36.3,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 41.47,
+      "portfolio_vigente": 544914,
+      "portfolio_vencida": 20035,
+      "portfolio_total": 564949
+    },
+    {
+      "year": 2024,
+      "total_cards_millions": 41.1,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 41.41,
+      "portfolio_vigente": 616078,
+      "portfolio_vencida": 21790,
+      "portfolio_total": 637868
+    },
+    {
+      "year": 2025,
+      "total_cards_millions": 45.7,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 41.42,
+      "portfolio_vigente": 685677,
+      "portfolio_vencida": 24404,
+      "portfolio_total": 710080
+    },
+    {
+      "year": 2026,
+      "total_cards_millions": 45.7,
+      "avg_balance_pesos": 15000000,
+      "avg_credit_limit_pesos": 40000000,
+      "utilization_pct": 41.42,
+      "portfolio_vigente": 685062,
+      "portfolio_vencida": 24323,
+      "portfolio_total": 709384
+    }
+  ],
+  "mortgages": [
+    {
+      "year": 2015,
+      "portfolio_billions": 640657,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 3.25,
+      "vigente": 619837,
+      "vencida": 20820
+    },
+    {
+      "year": 2016,
+      "portfolio_billions": 705985,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 2.73,
+      "vigente": 686717,
+      "vencida": 19268
+    },
+    {
+      "year": 2017,
+      "portfolio_billions": 764978,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 2.63,
+      "vigente": 744881,
+      "vencida": 20097
+    },
+    {
+      "year": 2018,
+      "portfolio_billions": 839158,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 2.58,
+      "vigente": 817484,
+      "vencida": 21673
+    },
+    {
+      "year": 2019,
+      "portfolio_billions": 930829,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 2.82,
+      "vigente": 904622,
+      "vencida": 26207
+    },
+    {
+      "year": 2020,
+      "portfolio_billions": 1016275,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 3.28,
+      "vigente": 982982,
+      "vencida": 33294
+    },
+    {
+      "year": 2021,
+      "portfolio_billions": 1118736,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 3.08,
+      "vigente": 1084244,
+      "vencida": 34492
+    },
+    {
+      "year": 2022,
+      "portfolio_billions": 1243442,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 2.59,
+      "vigente": 1211281,
+      "vencida": 32162
+    },
+    {
+      "year": 2023,
+      "portfolio_billions": 1355190,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 2.57,
+      "vigente": 1320296,
+      "vencida": 34894
+    },
+    {
+      "year": 2024,
+      "portfolio_billions": 1456767,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 2.74,
+      "vigente": 1416788,
+      "vencida": 39979
+    },
+    {
+      "year": 2025,
+      "portfolio_billions": 1536539,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 2.99,
+      "vigente": 1490591,
+      "vencida": 45948
+    },
+    {
+      "year": 2026,
+      "portfolio_billions": 1537306,
+      "avg_rate_pct": 0,
+      "new_loans_thousands": 0,
+      "imor_pct": 3.06,
+      "vigente": 1490228,
+      "vencida": 47078
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-04-03T15:01:36.661Z",
+    "source": "Banxico SIE API (real data)",
+    "series_used": {
+      "vigente": [
+        "vivienda_media_residencial",
+        "vivienda_total",
+        "vivienda_social",
+        "bienes_consumo_duradero",
+        "personales",
+        "nomina",
+        "otros_consumo",
+        "tarjeta_credito",
+        "consumo_total",
+        "automotriz",
+        "cartera_total"
+      ],
+      "vencida": [
+        "consumo_vencida",
+        "automotriz_vencida",
+        "bienes_consumo_duradero_vencida",
+        "nomina_vencida",
+        "vivienda_vencida",
+        "otros_vencida",
+        "personales_vencida",
+        "tarjeta_vencida"
+      ]
+    }
+  }
+}

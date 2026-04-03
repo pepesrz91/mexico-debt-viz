@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "source": "Banxico SIE API",
+    "api_base": "https://www.banxico.org.mx/SieAPIRest/service/v1/",
+    "header": "Bmx-Token",
+    "unit": "Millones de Pesos (MDP), Saldos Nominales, Monthly",
+    "notes": [
+      "CF835 series (cartera vigente) provide TOTALS including sin/con restricción",
+      "CF615 series (financiamiento detallado) break down into sin/con restricción, vigente/vencida",
+      "For cartera vencida, use CF615 series (SF235xxx, SF266xxx)",
+      "IMOR (Indice de Morosidad) is NOT available in Banxico SIE - it comes from CNBV",
+      "To calculate IMOR: cartera_vencida / (cartera_vigente + cartera_vencida) * 100",
+      "Data current through Feb 2026 as of this writing"
+    ],
+    "sample_api_call": "curl -s 'https://www.banxico.org.mx/SieAPIRest/service/v1/series/SF235712/datos/2024-01-01/2024-12-31' -H 'Bmx-Token: YOUR_TOKEN'"
+  },
+
+  "cartera_vigente_por_destino_CF835": {
+    "description": "Banca Comercial - Cartera de crédito vigente total al sector privado (metodología 2018)",
+    "cuadro": "CF835",
+    "series": {
+      "SF235704": {
+        "label": "A. Cartera vigente total",
+        "jan_2024_value": "6,008,936.0"
+      },
+      "SF235711": {
+        "label": "B. Cartera vigente total por destino del crédito (= A)",
+        "jan_2024_value": "6,008,936.0"
+      },
+      "SF235712": {
+        "label": "B.1 Consumo (total cartera vigente consumo)",
+        "jan_2024_value": "1,418,463.1"
+      },
+      "SF235713": {
+        "label": "B.1.1 Tarjeta de crédito",
+        "jan_2024_value": "541,045.5"
+      },
+      "SF266103": {
+        "label": "B.1.2 Nómina",
+        "jan_2024_value": "356,376.1"
+      },
+      "SF266104": {
+        "label": "B.1.3 Personales",
+        "jan_2024_value": "218,872.2"
+      },
+      "SF235714": {
+        "label": "B.1.4 Bienes de consumo duradero",
+        "jan_2024_value": "233,685.7"
+      },
+      "SF266105": {
+        "label": "B.1.4.1 Automotriz",
+        "jan_2024_value": "198,279.8"
+      },
+      "SF266106": {
+        "label": "B.1.4.2 Adquisición de bienes muebles",
+        "jan_2024_value": "35,405.9"
+      },
+      "SF235715": {
+        "label": "B.1.5 Otros (consumo)",
+        "jan_2024_value": "68,483.7"
+      },
+      "SF235716": {
+        "label": "B.2 Vivienda (total cartera vigente vivienda)",
+        "jan_2024_value": "1,323,407.7"
+      },
+      "SF235717": {
+        "label": "B.2.1 Vivienda - Interés social",
+        "jan_2024_value": "50,576.7"
+      },
+      "SF235718": {
+        "label": "B.2.2 Vivienda - Media y residencial",
+        "jan_2024_value": "1,272,831.0"
+      },
+      "SF235719": {
+        "label": "B.3 Empresas y personas físicas con actividad empresarial",
+        "jan_2024_value": "3,125,281.4"
+      }
+    }
+  },
+
+  "cartera_vencida_CF615": {
+    "description": "Banca Comercial - Cartera vencida por tipo de crédito (Financiamiento detallado)",
+    "cuadro": "CF615",
+    "notes": "Otorgado por banca interna al sector privado, Suma de monedas (MN+ME)",
+    "series": {
+      "SF235253": {
+        "label": "Consumo Vencido (total)",
+        "jan_2024_value": "48,931.2"
+      },
+      "SF235254": {
+        "label": "Consumo Vencido - Tarjeta de crédito",
+        "jan_2024_value": "20,196.6"
+      },
+      "SF266059": {
+        "label": "Consumo Vencido - Nómina",
+        "jan_2024_value": "11,427.5"
+      },
+      "SF266060": {
+        "label": "Consumo Vencido - Personales",
+        "jan_2024_value": "11,685.4"
+      },
+      "SF235255": {
+        "label": "Consumo Vencido - Bienes de consumo duradero",
+        "jan_2024_value": "4,113.7"
+      },
+      "SF266061": {
+        "label": "Consumo Vencido - Automotriz",
+        "jan_2024_value": "2,289.9"
+      },
+      "SF266062": {
+        "label": "Consumo Vencido - Adquisición de bienes muebles",
+        "jan_2024_value": "1,823.8"
+      },
+      "SF235256": {
+        "label": "Consumo Vencido - Otros",
+        "jan_2024_value": "1,507.9"
+      },
+      "SF235261": {
+        "label": "Vivienda Vencido (total)",
+        "jan_2024_value": "35,784.3"
+      },
+      "SF235262": {
+        "label": "Vivienda Vencido - Interés social",
+        "jan_2024_value": "2,611.6"
+      },
+      "SF235263": {
+        "label": "Vivienda Vencido - Media y residencial",
+        "jan_2024_value": "33,172.6"
+      }
+    }
+  },
+
+  "cartera_total_CF615": {
+    "description": "Banca Comercial - Cartera total (vigente + vencida) por tipo de crédito",
+    "cuadro": "CF615",
+    "notes": "These totals include both vigente and vencida",
+    "series": {
+      "SF235248": {
+        "label": "Consumo Total (vigente + vencida)",
+        "jan_2024_value": "1,468,967.7"
+      },
+      "SF235249": {
+        "label": "Consumo Vigente (sub-total within CF615)",
+        "jan_2024_value": "1,418,463.1"
+      },
+      "SF235257": {
+        "label": "Vivienda Total (vigente + vencida)",
+        "jan_2024_value": "1,359,192.0"
+      },
+      "SF235258": {
+        "label": "Vivienda Vigente (sub-total within CF615)",
+        "jan_2024_value": "1,323,407.7"
+      }
+    }
+  },
+
+  "imor_calculation": {
+    "description": "IMOR (Índice de Morosidad) must be calculated, not fetched directly",
+    "formula": "IMOR = cartera_vencida / (cartera_vigente + cartera_vencida) * 100",
+    "examples_jan_2024": {
+      "consumo_total": {
+        "vigente": "SF235712 = 1,418,463.1",
+        "vencida": "SF235253 = 48,931.2",
+        "imor_pct": "3.33%"
+      },
+      "tarjeta_credito": {
+        "vigente": "SF235713 = 541,045.5",
+        "vencida": "SF235254 = 20,196.6",
+        "imor_pct": "3.60%"
+      },
+      "nomina": {
+        "vigente": "SF266103 = 356,376.1",
+        "vencida": "SF266059 = 11,427.5",
+        "imor_pct": "3.11%"
+      },
+      "personales": {
+        "vigente": "SF266104 = 218,872.2",
+        "vencida": "SF266060 = 11,685.4",
+        "imor_pct": "5.07%"
+      },
+      "automotriz": {
+        "vigente": "SF266105 = 198,279.8",
+        "vencida": "SF266061 = 2,289.9",
+        "imor_pct": "1.14%"
+      },
+      "vivienda_total": {
+        "vigente": "SF235716 = 1,323,407.7",
+        "vencida": "SF235261 = 35,784.3",
+        "imor_pct": "2.63%"
+      }
+    }
+  },
+
+  "recommended_series_for_dashboard": {
+    "description": "Recommended minimal set of series for a Mexican consumer debt visualization",
+    "vigente": [
+      "SF235704  - Cartera vigente total",
+      "SF235712  - Consumo vigente total",
+      "SF235713  - Tarjeta de crédito vigente",
+      "SF266103  - Nómina vigente",
+      "SF266104  - Personales vigente",
+      "SF266105  - Automotriz vigente",
+      "SF235716  - Vivienda vigente total"
+    ],
+    "vencida": [
+      "SF235253  - Consumo vencida total",
+      "SF235254  - Tarjeta de crédito vencida",
+      "SF266059  - Nómina vencida",
+      "SF266060  - Personales vencida",
+      "SF266061  - Automotriz vencida",
+      "SF235261  - Vivienda vencida total"
+    ],
+    "totals_vigente_plus_vencida": [
+      "SF235248  - Consumo total (vig + ven)",
+      "SF235257  - Vivienda total (vig + ven)"
+    ]
+  }
+}

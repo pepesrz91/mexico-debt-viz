@@ -1,0 +1,20 @@
+{
+  "name": "mexico-debt-viz",
+  "version": "1.0.0",
+  "description": "Scraping and D3.js visualization of Mexican consumer debt",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper/index.js && cp data/banxico_consumer_credit.json public/data.json",
+    "dev": "npx serve public",
+    "build": "node scraper/index.js && echo 'Data ready. Run npm run dev to view.'"
+  },
+  "keywords": ["mexico", "debt", "d3", "visualization"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "d3": "^7.9.0",
+    "xlsx": "^0.18.5"
+  }
+}
